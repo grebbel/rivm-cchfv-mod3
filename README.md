@@ -1,194 +1,232 @@
-# **Online PCR Course - Real-time PCR Principles & Applications**
+# **Module 3: Principles of Real-time PCR**
 
 **Repository**: CCHF_PCR_course  
-**Course Version**: 1.2  
-**Last Updated**: 2025-01-15  
-**Total Modules**: 4  
+**Module Version**: 1.0  
+**Last Updated**: 2025-09-23  
 
-## **📊 Course Overview**
+## **📊 Module Overview**
+
+This comprehensive module focuses on the principles and applications of real-time PCR, particularly in the context of CCHF virus detection. Through interactive lessons, detailed visualizations, and hands-on exercises, students will gain a thorough understanding of real-time PCR technology and its practical applications in diagnostic settings.
 
 | **Component** | **Count** | **Status** |
 |---------------|-----------|------------|
-| 🧬 Core Modules | 4 | Complete |
+| 🧬 Core Chapters | 4 | Complete |
 | 📊 Interactive Visualizations | 8 | Active |
 | 🎯 Assessment Quizzes | 6 | Functional |
 | 🔬 Case Studies | 3 | Ready for use |
 
-## **📁 Module Breakdown**
+## **� Module Content**
 
-### **🧬 Core Learning Modules**
+### **1. Introduction**
+- Overview of PCR evolution and modern applications
+- Transition from traditional to molecular detection methods
+- Importance in biological research and diagnostics
 
-**Module 1: PCR Fundamentals**
-1. **PCR Principle** - Basic amplification concepts and methodology
-2. **Components & Chemistry** - Primers, polymerase, and reaction components
-3. **Thermal Cycling** - Understanding denaturation, annealing, and extension
-4. **Applications** - Clinical diagnostics and research applications
+### **2. PCR Principle**
+- Detailed walkthrough of PCR mechanics
+- Interactive visualization of PCR cycles
+- Understanding exponential amplification
+- PCR efficiency calculations and formulas
 
-**Impact**: Foundation knowledge for all subsequent modules
+### **3. Real-time PCR**
+- Real-time detection principles
+- Amplification curve analysis
+- Understanding phases:
+  - Initiation phase
+  - Exponential phase
+  - Plateau phase
+- Threshold and Ct value interpretation
 
-### **🔬 Module 2: Real-time PCR Technology**
+### **4. Detection Methods**
+- **SYBR Green Technology**
+  - Mechanism and applications
+  - Melting curve analysis
+  - Strain differentiation capabilities
+  - Advantages and limitations
 
-**Advanced PCR Concepts**
-1. **Fluorescence Detection** - Reporter dyes and detection systems
-2. **Quantification Methods** - Absolute and relative quantification
-3. **Melt Curve Analysis** - Product specificity verification
-4. **Multiplex PCR** - Multiple target detection strategies
+- **TaqMan Probe Technology**
+  - Probe mechanism and structure
+  - Step-by-step reaction process
+  - Benefits over traditional methods
+  - Applications in diagnostics
 
-**Impact**: Professional-level understanding of qPCR technology
+### **5. Advanced Applications**
+- Reverse Transcription PCR
+  - One-step vs. Two-step methods
+  - RNA template handling
+  - RT-PCR optimization
 
-### **⚡ Module 3: TaqMan Probe Technology**
+- Quality Control & Controls
+  - Positive and negative controls
+  - Internal controls
+  - Inhibition monitoring
+  - Result validation
 
-**Probe-based Detection Systems**
-1. **5' Nuclease Assays** - TaqMan probe mechanism and design
-2. **FRET-based Detection** - Fluorescence resonance energy transfer
-3. **Probe Design Principles** - Specificity and sensitivity optimization
-4. **Troubleshooting** - Common issues and solutions
+- Multiplex PCR
+  - Multiple target detection
+  - CCHF genotyping
+  - Practical applications
+  - Result interpretation
 
-**Impact**: Specialized expertise in probe-based PCR methods
-
-### **🎓 Module 4: Clinical Applications & Interpretation**
-
-**Real-world PCR Applications**
-1. **Pathogen Detection** - Viral and bacterial diagnostics
-2. **CCHF Virus Detection** - Specialized focus on Crimean-Congo Hemorrhagic Fever
-3. **Result Interpretation** - Ct values, controls, and quality assessment
-4. **Multiplexed Assays** - Complex diagnostic panels
-
-**Impact**: Practical skills for clinical laboratory work
+### **6. Troubleshooting**
+- Common PCR problems
+- Interactive problem-solving
+- Quality assurance measures
+- Best practices and solutions
 
 ## **🎯 Learning Objectives**
 
-### **Phase 1**: Fundamental Understanding (Modules 1-2)
-* Understand PCR principles and thermal cycling requirements
-* Explain real-time PCR detection mechanisms
-* **Must have** for basic PCR competency
+After completing this module, participants will be able to:
 
-### **Phase 2**: Technical Proficiency (Module 3)
-* Design and interpret TaqMan probe assays
-* Troubleshoot common PCR problems
-* **Should have** for laboratory professionals
+- **Understanding PCR Principles**
+  - Explain the fundamental mechanisms of PCR amplification
+  - Calculate theoretical DNA copy numbers using PCR formulas
+  - Understand the role of PCR efficiency in real-world applications
 
-### **Phase 3**: Clinical Application (Module 4)
-* Interpret clinical PCR results accurately
-* Apply PCR knowledge to diagnostic scenarios
-* **Could have** for advanced clinical practice
+- **Real-time Detection**
+  - Analyze and interpret real-time PCR amplification curves
+  - Understand the significance of Ct values
+  - Differentiate between various phases of PCR amplification
 
-## **📈 Technical Requirements**
+- **Detection Technologies**
+  - Compare SYBR Green and TaqMan probe technologies
+  - Interpret melting curve analyses
+  - Select appropriate detection methods for specific applications
 
-**Minimum System Requirements**:
-- Modern web browser (Chrome 90+, Firefox 88+, Safari 14+)
-- JavaScript enabled
-- Screen resolution: 1024×768 or higher
-- Internet connection for interactive elements
+- **Advanced Applications**
+  - Design and execute multiplex PCR assays
+  - Choose between one-step and two-step RT-PCR methods
+  - Implement proper control strategies
+  - Troubleshoot common PCR problems
 
-**Recommended Environment**:
-- Desktop or laptop computer
-- High-resolution display (1920×1080)
-- Audio capabilities for narrated content
-- PDF viewer for downloadable resources
+## **� Technical Features**
 
-## **🚀 Getting Started**
+### **Interactive Elements**
+- Animated PCR cycle demonstrations
+- Real-time curve analysis tools
+- Interactive troubleshooting dashboards
+- Dynamic quiz system with instant feedback
 
-### **Quick Start Guide**
-1. **Access Course**: Open `index.html` in your web browser
-2. **Navigation**: Use chapter menu or arrow keys to navigate
-3. **Interactive Elements**: Click on charts and diagrams for detailed views
-4. **Progress Tracking**: Complete quizzes to track your learning progress
-5. **Resources**: Download supplementary materials from each module
+### **Visualization Tools**
+- PCR cycle animations
+- Amplification curve demonstrations
+- Melting curve analysis graphs
+- Multiplex assay result interpretations
 
-### **Course Features**
-- **📱 Responsive Design**: Works on desktop, tablet, and mobile devices
-- **🎮 Interactive Slides**: Clickable PCR curve visualizations
-- **📊 Real-time Charts**: Dynamic amplification curve demonstrations
-- **🧪 Virtual Lab**: Simulated PCR setup and result interpretation
-- **📝 Self-Assessment**: Built-in quizzes with immediate feedback
+### **Assessment Components**
+- Knowledge check quizzes
+- Interactive exercises
+- Troubleshooting simulations
+- Practical interpretation exercises
 
-## **📚 Assessment & Certification**
+### **Progress Tracking**
+- Score thermometer visualization
+- Quiz completion tracking
+- Performance analytics
+- Achievement system
 
-### **Quiz Structure**
-| **Module** | **Questions** | **Pass Score** | **Attempts** |
-|------------|---------------|----------------|--------------|
-| Module 1 | 10 | 70% | Unlimited |
-| Module 2 | 12 | 75% | Unlimited |
-| Module 3 | 8 | 80% | Unlimited |
-| Module 4 | 15 | 80% | Unlimited |
+## **� Assessment Structure**
 
-### **Completion Requirements**
-- Complete all 4 modules
-- Pass all module quizzes
-- Complete final multiplex exercise
-- **Certificate issued upon 100% completion**
+### **Interactive Exercises**
+1. **PCR Cycle Animation**
+   - Multi-step interactive visualization
+   - Step-by-step explanation of PCR mechanics
+   - Knowledge check questions
 
-## **🔧 Troubleshooting**
+2. **Real-time PCR Analysis**
+   - Amplification curve interpretation
+   - Phase identification exercise
+   - Threshold setting practice
 
-### **Common Issues & Solutions**
-1. **Charts Not Loading**: Ensure JavaScript is enabled, check browser compatibility
-2. **Audio Problems**: Verify browser audio permissions and device settings
-3. **Mobile Display**: Rotate device to landscape for optimal chart viewing
-4. **Progress Not Saving**: Enable cookies and local storage in browser settings
+3. **CCHF Genotyping Exercise**
+   - Sample interpretation simulation
+   - Multiple control analysis
+   - Result validation practice
 
-### **Browser Compatibility**
-| **Browser** | **Version** | **Status** | **Notes** |
-|-------------|-------------|------------|-----------|
-| Chrome | 90+ | ✅ Full Support | Recommended |
-| Firefox | 88+ | ✅ Full Support | Recommended |
-| Safari | 14+ | ✅ Full Support | iOS/macOS |
-| Edge | 90+ | ✅ Full Support | Windows |
+4. **Troubleshooting Dashboard**
+   - Common problem identification
+   - Solution strategy development
+   - Interactive problem-solving
 
-## **📖 Course Content Structure**
+### **Quizzes & Scoring**
+- PCR Principles Quiz (100 points)
+- CCHF Sample Analysis (120 points)
+- Troubleshooting Questions (160 points)
+- Multiple practical assessments
+- Total available points: 540
 
+## **� Technical Implementation**
+
+### **File Structure**
 ```
 CCHF_PCR_course/
-├── index.html                 # Main course interface
-├── styles.css                 # Course styling
-├── script.js                  # Interactive functionality
-├── images/                    # Course images and diagrams
-│   ├── pcr-curves-*.png      # Amplification curve examples
-│   ├── taqman-mechanism.svg   # Probe illustrations
-│   └── cchf-detection.jpg     # Clinical examples
-├── resources/                 # Downloadable materials
-│   ├── pcr-protocol.pdf       # Laboratory protocols
-│   ├── troubleshooting.pdf    # Problem-solving guide
-│   └── references.pdf         # Scientific literature
-└── README.md                  # This file
+├── index.html               # Main module interface
+├── style.css               # Module styling
+├── script.js               # Interactive functionality
+├── scorm-wrapper.js        # SCORM integration
+└── images/                 # Module visuals
+    ├── PCR_*.png          # PCR cycle illustrations
+    ├── probe_step*.png    # TaqMan mechanism
+    ├── pcr-curves-*.png   # Troubleshooting examples
+    └── CCHF_primers.png   # Primer design visuals
 ```
 
-## **🎯 Current Assessment**
+### **Key Features**
+- SCORM-compliant e-learning module
+- Responsive design for various devices
+- Interactive elements with JavaScript
+- Real-time scoring system
+- Progress tracking
 
-**Overall Course Quality**: 9.1/10
-- **Educational Content**: 9.5/10 (Comprehensive and up-to-date)
-- **User Experience**: 8.8/10 (Intuitive navigation and responsive design)
-- **Interactive Elements**: 9.0/10 (Engaging PCR visualizations)
-- **Technical Performance**: 9.2/10 (Fast loading, cross-browser compatible)
+## **📈 Module Features**
 
-## **📈 Learning Outcomes**
+### **Interactive Learning**
+- Step-by-step PCR cycle animations
+- Dynamic amplification curve analysis
+- Real-time quiz feedback system
+- Comprehensive troubleshooting dashboard
 
-Upon completion of this course, students will be able to:
+### **Visual Learning Tools**
+- High-quality PCR cycle illustrations
+- Real-time PCR curve demonstrations
+- TaqMan probe mechanism animations
+- CCHF genotyping examples
 
-✅ **Explain** the fundamental principles of PCR amplification  
-✅ **Describe** real-time PCR detection mechanisms and applications  
-✅ **Design** TaqMan probe-based assays for specific targets  
-✅ **Interpret** PCR results including Ct values and melt curves  
-✅ **Troubleshoot** common PCR problems and optimize reactions  
-✅ **Apply** PCR knowledge to clinical diagnostic scenarios  
-✅ **Evaluate** PCR data quality and validate results  
+### **Practical Applications**
+- CCHF virus detection protocols
+- Multiplex PCR setup guidance
+- Control strategy implementation
+- Result interpretation practice
 
-## **📞 Support & Feedback**
+## **🔍 System Requirements**
 
-- **Technical Issues**: [Create GitHub Issue](../../issues)
-- **Content Questions**: Contact course instructor
-- **Feedback**: Use built-in course feedback forms
+### **Browser Compatibility**
+- Chrome 90+
+- Firefox 88+
+- Safari 14+
+- Edge 90+
+
+### **Technical Requirements**
+- JavaScript enabled
+- 1024×768 minimum resolution
+- Internet connection
+- PDF viewer for resources
+
+## **📞 Support**
+
+For technical assistance or content questions:
+- **GitHub Issues**: [Create Issue](../../issues)
+- **Documentation**: Refer to module guides
 - **Updates**: Check repository for latest version
 
-## **📄 License & Attribution**
+## **📄 Attribution**
 
-This course is designed for educational use in clinical laboratory training programs. 
+This module is part of the CCHF PCR Training Program.
 
-**Citation**: "Online PCR Course - Real-time PCR Principles & Applications" (2025). CCHF PCR Training Module.
+**Citation**: "Module 3: Principles of Real-time PCR" (2025). CCHF PCR Training Module Series.
 
 ---
 
-**Conclusion**: This course provides **comprehensive PCR education** with **hands-on interactive elements**. Students gain both theoretical knowledge and practical skills necessary for **professional laboratory work**. The modular design allows for **flexible learning paths** while maintaining **rigorous educational standards**.
-
-*Course developed for clinical laboratory professionals and students*  
-*Compatible with modern web browsers • Optimized for desktop and mobile learning*
+**Module Status**: Active  
+**Last Review**: September 2025  
+**Next Review**: March 2026
