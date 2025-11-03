@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.defaultBranch": "main",
+        "git.remoteUrl": "https://github.com/grebbel/CCHF_PCR_course.git"
+    }
+}
